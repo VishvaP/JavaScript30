@@ -1,6 +1,6 @@
 # JavaScript30
-what and when
-1 15/09/2020
+# what and when
+* 1 15/09/2020
 Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
 
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
